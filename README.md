@@ -11,5 +11,5 @@ collimator, left 2cm, middle 2cm, and right 2cm, all with full height slit. All 
 with Poisson Monte Carlo turned on. They possiby should be re-done with the normal Monte Carlo.
 
 Feb 8th 2023 Now have C1 analyses of left, center, and right vertical slit settings of the
-4-jaw slit going to a 3x3 array of spectrum detectors and top and center 1cm sq. settings
+4-jaw slit going to a 3x3 array of spectrum detectors and top, center, and bottom 1cm sq. settings
 (1cm centered in x) going to the same array.
